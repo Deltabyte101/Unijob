@@ -1,3 +1,5 @@
-<?php
- echo 'hello world' ;
-?>
+<html>
+    <?php
+        header('location:menu.html');
+    ?>
+</html>
